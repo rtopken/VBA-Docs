@@ -39,8 +39,11 @@ localization_priority: Normal
 |IPM.Schedule.Meeting.Canceled|Meeting cancellations|
 |IPM.Schedule.Meeting.Request| Meeting requests|
 |IPM.Schedule.Meeting.Resp.Neg| Responses to decline meeting requests|
+|IPM.Schedule.Meeting.Resp.Neg.SilentResponse| Responses to decline meeting requests|
 |IPM.Schedule.Meeting.Resp.Pos|Responses to accept meeting requests|
+|IPM.Schedule.Meeting.Resp.Pos.SilentResponse|Responses to accept meeting requests|
 |IPM.Schedule.Meeting.Resp.Tent|Responses to tentatively accept meeting requests|
+|IPM.Schedule.Meeting.Resp.Tent.SilentResponse|Responses to tentatively accept meeting requests|
 |IPM.Note.Secure| Encrypted notes to other people|
 |IPM.Note.Secure.Sign|Digitally signed notes to other people|
 |IPM.Task| Tasks|
